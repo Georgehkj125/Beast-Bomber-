@@ -148,20 +148,13 @@ then reinstall the **opentele** library.
 
 # 📌 Donate for coffee
 
-* ![BNB](https://user-images.githubusercontent.com/80776324/230691108-ecd10132-af58-4064-8c44-ad10f6f55dd1.png) **BNB: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* ![BNB](https://user-images.githubusercontent.com/80776324/230691108-ecd10132-af58-4064-8c44-ad10f6f55dd1.png) **BNB: 0x9c3f86299f899e15386081dBA76Dc5dc8C4BCcb7**
 
 
-* ![BTC](https://user-images.githubusercontent.com/80776324/230691099-1422c66c-099e-49f2-adee-b48fa9533c0c.png) **BTC: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* ![BTC](https://user-images.githubusercontent.com/80776324/230691099-1422c66c-099e-49f2-adee-b48fa9533c0c.png) **BTC: bc1qqp7rc22r7ss909ugc3uxj9ua3aj7sqy864m9ny**
 
 
-* ![ETH](https://user-images.githubusercontent.com/80776324/230691090-32c937b9-61bc-4eeb-b058-c46c8fc250ac.png) **ETH: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
-
-
-* ![LTC](https://user-images.githubusercontent.com/80776324/230691072-c3bc7a2b-7e4e-4a4b-ab56-e82ee5ffb717.png) **LTC: ltc1qudx4ge8zvncqpdtl5mshfqjxzyvg43f27ysqjt**
-
-
-* ![USDT](https://user-images.githubusercontent.com/80776324/230691044-44802059-c433-4de5-a221-0f69c0b7c660.png) **USDT (TRC-20): TKVs4Bt63mVGSYth7HSvNQBk8Xp1UKMH9Y**
-
+* ![ETH](https://user-images.githubusercontent.com/80776324/230691090-32c937b9-61bc-4eeb-b058-c46c8fc250ac.png) **ETH: 0x9c3f86299f899e15386081dBA76Dc5dc8C4BCcb7**
 
 <div align="center">
   
@@ -287,20 +280,13 @@ pkg install pyqt5 python-pyqtwebengine
 
 # 📌 Автору на кофе
 
-* ![BNB](https://user-images.githubusercontent.com/80776324/230691108-ecd10132-af58-4064-8c44-ad10f6f55dd1.png) **BNB: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* ![BNB](https://user-images.githubusercontent.com/80776324/230691108-ecd10132-af58-4064-8c44-ad10f6f55dd1.png) **BNB: 0x9c3f86299f899e15386081dBA76Dc5dc8C4BCcb7**
 
 
-* ![BTC](https://user-images.githubusercontent.com/80776324/230691099-1422c66c-099e-49f2-adee-b48fa9533c0c.png) **BTC: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* ![BTC](https://user-images.githubusercontent.com/80776324/230691099-1422c66c-099e-49f2-adee-b48fa9533c0c.png) **BTC: bc1qqp7rc22r7ss909ugc3uxj9ua3aj7sqy864m9ny**
 
 
-* ![ETH](https://user-images.githubusercontent.com/80776324/230691090-32c937b9-61bc-4eeb-b058-c46c8fc250ac.png) **ETH: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
-
-
-* ![LTC](https://user-images.githubusercontent.com/80776324/230691072-c3bc7a2b-7e4e-4a4b-ab56-e82ee5ffb717.png) **LTC: ltc1qudx4ge8zvncqpdtl5mshfqjxzyvg43f27ysqjt**
-
-
-* ![USDT](https://user-images.githubusercontent.com/80776324/230691044-44802059-c433-4de5-a221-0f69c0b7c660.png) **USDT (TRC-20): TKVs4Bt63mVGSYth7HSvNQBk8Xp1UKMH9Y**
-
+* ![ETH](https://user-images.githubusercontent.com/80776324/230691090-32c937b9-61bc-4eeb-b058-c46c8fc250ac.png) **ETH: 0x9c3f86299f899e15386081dBA76Dc5dc8C4BCcb7**
 
 <div align="center">
   
